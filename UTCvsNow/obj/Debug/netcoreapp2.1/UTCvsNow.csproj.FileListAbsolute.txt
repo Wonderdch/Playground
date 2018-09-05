@@ -1,0 +1,11 @@
+C:\Wonder\GitMoonache\Playground\UTCvsNow\bin\Debug\netcoreapp2.1\UTCvsNow.deps.json
+C:\Wonder\GitMoonache\Playground\UTCvsNow\bin\Debug\netcoreapp2.1\UTCvsNow.runtimeconfig.json
+C:\Wonder\GitMoonache\Playground\UTCvsNow\bin\Debug\netcoreapp2.1\UTCvsNow.runtimeconfig.dev.json
+C:\Wonder\GitMoonache\Playground\UTCvsNow\bin\Debug\netcoreapp2.1\UTCvsNow.dll
+C:\Wonder\GitMoonache\Playground\UTCvsNow\bin\Debug\netcoreapp2.1\UTCvsNow.pdb
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.csprojAssemblyReference.cache
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.csproj.CoreCompileInputs.cache
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.AssemblyInfoInputs.cache
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.AssemblyInfo.cs
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.dll
+C:\Wonder\GitMoonache\Playground\UTCvsNow\obj\Debug\netcoreapp2.1\UTCvsNow.pdb
